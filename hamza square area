@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main(){
+int sides=25;
+area;
+area=sides*sides
+printf("%d\n",area);
+return 0;
+}

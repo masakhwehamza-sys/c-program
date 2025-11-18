@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    int sides = 25;
+    int area;
+    area = sides * sides;
+    printf("The area is %d\n", area);
+    return 0;
+}
